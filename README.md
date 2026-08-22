@@ -17,6 +17,7 @@ Email Me 👉 ✉️ **toheedquresh2008@gmail.com** For Collaboration/Project or
 * ⚡ **Fun fact:** I believe consistent learning and building can turn ideas into real-world solutions.
 
 ## 🎯 My Goals
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 * 💻 Build strong Computer Science fundamentals
 * 🧠 Become strong in Data Structures & Algorithms
@@ -24,6 +25,8 @@ Email Me 👉 ✉️ **toheedquresh2008@gmail.com** For Collaboration/Project or
 * 🤖 Explore Artificial Intelligence & Machine Learning
 * 🌐 Contribute to Open Source
 * 🏆 Prepare for top-tier Software Engineering opportunities
+* 🏢 build core strength in AI and ML
+  
 
 ## 📚 Currently Learning
 
