@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **toheedquresh2008@gmail.com** For Collaboration/Project or
 * 🏢 build core strength in AI and ML
   
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 * C / C++
 * Python
